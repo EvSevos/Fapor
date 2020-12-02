@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b79e10f-6788-438b-b998-f8c6b322ca68" name="Default Changelist" comment="add carousel" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jn9adC6BaD1tEaCbyx5DVSlotA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Женя\LEMON\Fapor\js" />
+      <recent name="D:\Женя\LEMON\Fapor\css" />
+      <recent name="D:\Женя\LEMON\Fapor\fonts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b79e10f-6788-438b-b998-f8c6b322ca68" name="Default Changelist" comment="" />
+      <created>1604429052477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604429052477</updated>
+      <workItem from="1604429053882" duration="753000" />
+      <workItem from="1604440353763" duration="9401000" />
+      <workItem from="1604479149347" duration="25417000" />
+      <workItem from="1604595111028" duration="8125000" />
+      <workItem from="1604671771688" duration="98000" />
+      <workItem from="1604671891936" duration="128000" />
+      <workItem from="1605027639785" duration="5797000" />
+      <workItem from="1605078464765" duration="264000" />
+      <workItem from="1606843840184" duration="14000" />
+      <workItem from="1606897019645" duration="13445000" />
+      <workItem from="1606913498521" duration="411000" />
+    </task>
+    <task id="LOCAL-00001" summary="new commite">
+      <created>1606897905535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606897905535</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new commite">
+      <created>1606898677986</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606898677986</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commite" />
+    <MESSAGE value="add carousel" />
+    <option name="LAST_COMMIT_MESSAGE" value="add carousel" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="327" y="0" key="CommitChangelistDialog2" timestamp="1606910687351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="327" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606910687351" />
+    <state x="462" y="109" key="FileChooserDialogImpl" timestamp="1606843852319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="109" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606843852319" />
+    <state x="536" y="96" key="RollbackChangesDialog" timestamp="1606901149095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="536" y="96" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606901149095" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1606913614257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606913614257" />
+    <state x="281" y="106" key="Vcs.Push.Dialog.v2" timestamp="1606911389408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="281" y="106" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606911389408" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1606913520469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606913520469" />
+  </component>
+</project>
