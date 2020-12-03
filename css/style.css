@@ -127,6 +127,7 @@ header nav ul li:hover:after, header nav ul li.active:after {
 
 .management.container{
     max-width: 887px;
+    align-items: center;
 }
 
 
@@ -151,12 +152,13 @@ h2:after {
 }
 
 .management .d-flex {
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 
 .management .item {
     max-width: 246px;
-    margin-bottom: 100px;
+    margin: 0 auto 100px;
 }
 
 
@@ -245,6 +247,7 @@ h2:after {
     max-width: 684px;
     margin: auto;
     text-align: center;
+    position: relative;
 }
 
 .client {

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b79e10f-6788-438b-b998-f8c6b322ca68" name="Default Changelist" comment="add carousel">
+    <list default="true" id="0b79e10f-6788-438b-b998-f8c6b322ca68" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -70,6 +71,7 @@
       <workItem from="1606897019645" duration="13445000" />
       <workItem from="1606913498521" duration="1494000" />
       <workItem from="1606986868353" duration="333000" />
+      <workItem from="1607014389054" duration="1934000" />
     </task>
     <task id="LOCAL-00001" summary="new commite">
       <created>1606897905535</created>
@@ -85,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606898677986</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add carousel">
+      <created>1607014631507</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607014631507</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,10 +106,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="add carousel" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="327" y="0" key="CommitChangelistDialog2" timestamp="1606910687351">
+    <state x="327" y="0" key="CommitChangelistDialog2" timestamp="1607014627128">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="327" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606910687351" />
+    <state x="327" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607014627128" />
     <state x="462" y="109" key="FileChooserDialogImpl" timestamp="1606987204165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -113,10 +122,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606913614257" />
-    <state x="281" y="106" key="Vcs.Push.Dialog.v2" timestamp="1606911389408">
+    <state x="281" y="106" key="Vcs.Push.Dialog.v2" timestamp="1607014635324">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="281" y="106" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606911389408" />
+    <state x="281" y="106" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607014635324" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1606986869685">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
